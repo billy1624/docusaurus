@@ -15350,7 +15350,7 @@ postcss@^7.0.18, postcss@^7.0.39:
     picocolors "^0.2.1"
     source-map "^0.6.1"
 
-postcss@^8.1.7, postcss@^8.2.x, postcss@^8.3.11, postcss@^8.3.5, postcss@^8.4.6, postcss@^8.4.7, postcss@^8.4.8:
+postcss@^8.1.7, postcss@^8.2.x, postcss@^8.3.5, postcss@^8.4.6, postcss@^8.4.7, postcss@^8.4.8:
   version "8.4.8"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.8.tgz#dad963a76e82c081a0657d3a2f3602ce10c2e032"
   integrity sha512-2tXEqGxrjvAO6U+CJzDL2Fk2kPHTv1jQsYkSoMeOis2SsYaXRO2COxTdQp99cYvif9JTXaAk9lYGc3VhJt7JPQ==
@@ -16787,14 +16787,14 @@ rtl-detect@^1.0.4:
   resolved "https://registry.yarnpkg.com/rtl-detect/-/rtl-detect-1.0.4.tgz#40ae0ea7302a150b96bc75af7d749607392ecac6"
   integrity sha512-EBR4I2VDSSYr7PkBmFy04uhycIpDKp+21p/jARYXlCSjQksTBQcJ0HFUPOO79EPPH5JS6VAhiIQbycf0O3JAxQ==
 
-rtlcss@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/rtlcss/-/rtlcss-3.5.0.tgz#c9eb91269827a102bac7ae3115dd5d049de636c3"
-  integrity sha512-wzgMaMFHQTnyi9YOwsx9LjOxYXJPzS8sYnFaKm6R5ysvTkwzHiB0vxnbHwchHQT65PTdBjDG21/kQBWI7q9O7A==
+rtlcss@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/rtlcss/-/rtlcss-4.0.0.tgz#ba73233b9c79fbf66eb867f2ae937713acbf2b40"
+  integrity sha512-j6oypPP+mgFwDXL1JkLCtm6U/DQntMUqlv5SOhpgHhdIE+PmBcjrtAHIpXfbIup47kD5Sgja9JDsDF1NNOsBwQ==
   dependencies:
-    find-up "^5.0.0"
+    escalade "^3.1.1"
     picocolors "^1.0.0"
-    postcss "^8.3.11"
+    postcss "^8.4.6"
     strip-json-comments "^3.1.1"
 
 run-async@^2.2.0, run-async@^2.4.0:
